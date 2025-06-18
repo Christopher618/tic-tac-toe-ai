@@ -5,7 +5,7 @@ import logic
 root = Tk()
 root.geometry("400x400")
 root.title("Tic-tac-toe AI")
-root.iconbitmap("icons8-tic-tac-toe-32.ico")
+root.iconbitmap("tic_tac_toe_ai/icons8-tic-tac-toe-32.ico")
 root.config(bg="#0F0F0F")
 root.rowconfigure(0, weight=1)
 root.columnconfigure(0, weight=1)
